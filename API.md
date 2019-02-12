@@ -128,7 +128,7 @@ assert.dom('.choice').exists({ count: 4 });
 
 -   **See: [#exists](#exists)**
 
-Assert an [HTMLElement](https://developer.mozilla.org/docs/Web/HTML/Element) matching the `selector` does not exists.
+Assert an [HTMLElement](https://developer.mozilla.org/docs/Web/HTML/Element) matching the `selector` does not exist.
 
 #### Parameters
 
